@@ -14,7 +14,7 @@
         
     }
     .unknown{
-        background:darkorange;
+        background:gray;
     }
     .Dead{
         background:firebrick;
